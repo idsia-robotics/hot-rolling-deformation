@@ -6,4 +6,3 @@
 
 ## Hot-rolling process for single-stand configurations
 
-
