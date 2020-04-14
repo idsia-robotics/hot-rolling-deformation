@@ -12,6 +12,11 @@ Hot rolling is a metal forming process that produces a workpiece with a desired 
 ![Hot-rolling schematic](media/rollpassing_schematic.png)
 
 
+**Single-stand scenario**
+
+![Hot-rolling single-stand scenario](media/single-stand.gif)
+
+
 ### Examples of deformation estimation results
 
 ![Hot-rolling deformation estimation examples](media/2dsimestimationsamples_onlyO.png)
